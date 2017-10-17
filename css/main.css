@@ -29,13 +29,18 @@ html {
 
 .cards img {
   display: block;
-  margin: 0 auto 1rem
+  margin: 0 auto 1rem;
+}
 
-  font-size: 1.125;
+.cards strong {
+  display: block;
+  margin-bottom: 1rem;
+
+  font-size: 1.125rem;
 }
 
 .cards dl {
-  margin-bottom 1rem
+  margin-bottom: 1rem;
 }
 
 .cards dt {
